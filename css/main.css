@@ -193,7 +193,7 @@ a:hover {
 /* feature quote */
 .feature-quote {
   background: #333;
-  padding: 20px 0;
+  padding: 40px 0;
 }
 
 .feature-quote > div {
@@ -223,6 +223,110 @@ a:hover {
   float: right;
   color: #999;
   margin-top: 10px;
+}
+
+/* count */
+.featured-day {
+  padding: 40px 4%;
+}
+
+.featured-day .count {
+  position: relative;
+  height: 200px;
+  width: 200px;
+  background: #e5e5e5;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+.featured-day .count .day-number {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  text-align: center
+}
+
+.featured-day .count .day-number > div:first-of-type {
+  position: absolute;
+  width: 100%;
+  top: 40px;
+  font-size: 1.5em;
+  text-transform: uppercase;
+}
+
+.featured-day .count .day-number .number {
+  font-family: "Helvetic Neue", Helvetica, sans-serif;
+  font-size: 5em;
+  font-weight: 900;
+  line-height: 200px;
+}
+
+.featured-day .first {
+  padding: 40px 0;
+}
+
+.featured-day .first > div {
+  float: left;
+  width: 49%;
+}
+
+.featured-day .first .post {
+  position: relative;
+  line-height: 1.5;
+  margin-right: 2%;
+
+  -webkit-transform: translateX(0);
+     -moz-transform: translateX(0);
+      -ms-transform: translateX(0);
+       -o-transform: translateX(0);
+          transform: translateX(0);
+
+  -webkit-transition: opacity, -webkit-transform, 1s;
+     -moz-transition: opacity, -moz-transform, 1s;
+       -o-transition: opacity, -o-transform, 1s;
+          transition: opacity, transform, 1s;
+}
+
+.featured-day .first .post.fade {
+  opacity: 0;
+
+  -webkit-transform: translateX(-40px);
+     -moz-transform: translateX(-40px);
+       -o-transform: translateX(-40px);
+          transform: translateX(-40px);
+}
+
+.featured-day .first .video {
+  position: relative;
+  background: #333;
+  overflow: hidden;
+
+  -webkit-transform: translateX(0);
+     -moz-transform: translateX(0);
+      -ms-transform: translateX(0);
+       -o-transform: translateX(0);
+          transform: translateX(0);
+
+  -webkit-transition: opacity, -webkit-transform, 1s;
+     -moz-transition: opacity, -moz-transform, 1s;
+       -o-transition: opacity, -o-transform, 1s;
+          transition: opacity, transform, 1s;
+}
+
+.featured-day .first .video.fade {
+  opacity: 0;
+
+  -webkit-transform: translateX(40px);
+     -moz-transform: translateX(40px);
+       -o-transform: translateX(40px);
+          transform: translateX(40px);
+}
+
+.featured-day .first .video iframe,
+.featured-day .first .video object,
+.featured-day .first .video embed {
+  width: 100%;
 }
 
 /* clearfix */

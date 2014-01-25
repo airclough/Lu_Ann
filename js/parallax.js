@@ -1,6 +1,6 @@
 
 !function( window ) {
-  var parallax = {
+  app.views.parallax = {
     init: function() {
       this.el = document.querySelector( '.main' );
       this.bindEventListeners();
@@ -20,7 +20,5 @@
 
       this.el.style.backgroundPosition = '0px ' + ( y * v ) + 'px';
     }
-  }
-
-  parallax.init();
+  };
 }( window );

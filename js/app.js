@@ -1,0 +1,40 @@
+
+!function( window ) {
+  firsts = [
+    {
+      day: 1,
+      post: 'I feel fearless today. I ran into the freezing cold Atlantic with guys in speedos and women in polar bear pajamas. I scraped my knee, I can’t get the sand out of my ears and I think I stepped on something that will have to be surgically removed but I’m so happy! What a rush! Yesterday, I was thinking that this “doing a first every day thing for the next year”  is crazy and probably damn near impossible. For some reason , after running into the ocean and falling face first into the surf, I think it’s a fantastic idea again. I just want to say for the record, the folks at the Atlantic City Polar Bear Plunge were so encouraging and gave me lots of helpful tips like “Just don’t think about it. Keep running,” and “Don’t go into the ocean wearing the only dry pair of socks you have”.  Oh yeah and “Get out of the water if you can’t feel your feet.” Good one. Best of all, my daughter, Alexa, was there shooting this video and we laughed about it all the way home.  I taught my daughter to dream and now she’s teaching me. Without her, I’m not sure I would have even thought about starting this blog. Happy New Year!',
+      video: 'RoiZULN49lY'
+    },
+    {
+      day: 69,
+      post: 'When preparing to travel, lay out all your clothes and all your money. Then take half the clothes and twice the money. ~Susan HellerThe “excellente”, “muy bien” vacation in Mexico continues.  ( This is pretty much the extent of my Spanish vocabulary and I use these words in addition to “ola” dozens of times a day, because the Mexican people we’ve met are so nice they are always saying “ola” and asking how you are. If you do not answer “excellente” or “muy bien” , they want to know why you are not “muy bien” so I now automatically say “muy bien”. Si. Gracias for continuing to read this. ) I’ve always wanted to zip line through the trees somewhere. So, when I heard about this kind of  natural water park, zip line adventure place called XPLOR nearby, I said sign me up.  My husband Phil did the camera work. http://www.youtube.com/watch?v=F-3ZUK3DztE&hl=en_US&fs=1& You see what I mean about the “ola”, “muy bien” thing? It goes on like that all day. Anyway, zip lining was a blast. At XPLOR we must have gone on about a dozen different lines and some of them spashed us into the water. (Notice my lovely hair)   Here’s one of the landings. http://www.youtube.com/watch?v=tjKGG-2DTNQ&hl=en_US&fs=1& I don’t know why I wasn’t scared. I’m usually not crazy about heights but this didn’t bother me at all. We also went swimming in water running through underground caves, and took an ATV through some jungle paths. But the zip lining was an exhilarting first. Until manana amigos, adios.',
+      video: 'tjKGG-2DTNQ'
+    },
+    {
+      day: 216,
+      post: 'Feelings are much like waves, we can’t stop them from coming but we can choose which one to surf. ~Jonatan Mårtensson. I love the ocean. I rarely get in it past my knees, so learning to surf requires getting past some fears. Sharks! (There was an attack of a Pennsylvania woman just miles from here.)  Getting sucked under the waves! ( I was rolled around like I was in a washing machine when I was a kid.) My 17 year old niece , Emily Cohen, and I decided we would do this First together.  We rented surf boards and convinced my nephew Ryan Houser to take us out in the waves off St. Augustine Beach and teach us to surf. I got close to standing up as you’ll see but didn’t quite make it.  But I spent more time playing in the ocean that ever before.  Just a great time.  I didn’t worry about sharks or the waves, just trying to get up on the board. But best of all, because Emily and I were out there trying, everyone else in the family decided to try to surf too.  We all took turns with our two rental boards. Such a great time, we’re all going to do it again tomorrow.  Hear the surfing is going to be good about 9am.  Emily and I will be there.',
+      video: 'uFM1H9Dhlv0'
+    },
+    {
+      day: 335,
+      post: 'I have seen women walk right past a TV set with a football game on and – this always amazes me – not stop to watch, even if the TV is showing replays of what we call a “good hit,” which is a tackle that causes at least one major internal organ to actually fly out of a player’s body.  ~Dave Barry. I’m serious. I’ve never thrown a football.  I didn’t have brothers. My dad? Into baseball.  No football. Fortunately, I know former NFL Eagles Linebacker Carlos Bradley. Now before I show you the video of him teaching me to throw, I have to hold up my end of the deal.   Every year Carlos raises money to benefit student athletes.  His organization is called the International Student Athlete  Academy. He’s been doing this for years and it’s a great cause.  Carlos throws a party at the Zee Bar on Saturday December 11th, 2nd and Spring Garden.  50 dollars at the door. Okay…now for the football throw lesson.',
+      video: '78kIrpnQkao'
+    },
+    {
+      day: 365,
+      post: 'When we are no longer able to change a situation, we are challenged to change ourselves. ~Victor Frankl. It’s hard to believe this day has finally come. I made it. I can truly say I’ve lived an entire year of Firsts every day. And so many of you have helped me. I want to say thank you to every single one of you who has followed this blog, helped me and supported me or just offered some words of encouragement along the way. What began as a whimsical, crazy challenge to get out of a rut has rewarded me with amazing new experiences, challenges, friends, jobs, skills and a refreshed and reinvented life. It’s true. My life has dramatically changed this year and this blog set me on the path to make that happen. I didn’t know exactly where I was going when I started this adventure jumping into the Atlantic Ocean last New Years Day. I just knew something had to change. What I’ve learned is that I had to change. I had to get out of my comfort zone every day and explore, learn, push myself, teach, say yes to things that made me a little scared but excited. Some Firsts were just small and silly. Still, each experience allowed me to eventually tackle big things with confidence and knowledge that failure was okay but not trying something I wanted to do was unacceptable. So what’s changed? I have a new job at the moment. I’m hosting the 10! Show on NBC 10. It’s a huge change from investigative reporting but I’m so happy every day when I wake up to go to work. I never would have guessed this would have happened a year ago but reinventing your life can take you to unexpected and wonderful places. I taught my first college journalism course at Drexel University and I know that I want teaching to be in my future. That means this next year I’ve got to knuckle down and continue working on my Masters degree. I’ve leaped into new technology. I’ve embraced social media, learned to edit my own video, adore my IPad and find any news I need online. Well, it’s a start. I spoke at the Pennsylvania Governor’s Conference about how to reinvent your life. I hope that I’ll be able to continue to help motivate others to get “unstuck” in their lives. Which leads me to my plan for 2011. This last year has been about my journey. I hope this next year is about yours. Tomorrow I’ll launch a new version of this blog. I hope you’ll share your firsts, your tips, your videos and pictures as you reinvent your life. I’ll be sharing stories of people I’ve been talking to, some famous, most just every day folks who’ve found a way to take a leap and change their lives in some meaningful way. I’m hoping you’ll find inspiration here and that you’ll help inspire others. In the meantime, here’s a look back on some of the highlights of One Year of Firsts from 2010. Happy New Year !',
+      video: 'uZcAmlilUOc'
+    }
+  ];
+
+  window.app = {
+    views: {},
+    first: firsts[ Math.floor( Math.random() * firsts.length ) ],
+    init: function() {
+      for( var prop in this.views ) {
+        this.views[ prop ].init();
+      }
+    }
+  }
+}( window );
